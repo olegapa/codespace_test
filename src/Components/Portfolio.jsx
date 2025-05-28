@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Automated Irrigation System for Corn Fields",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed and implemented a smart irrigation system to optimize water usage and improve corn yield.",
+    url: "https://example.com/irrigation-system",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Soil Health Monitoring Dashboard",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a dashboard to track and analyze soil health metrics for sustainable corn farming.",
+    url: "https://example.com/soil-dashboard",
   },
   {
-    title: "My Resume Site",
+    title: "Corn Hybrid Selection Guide",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created an interactive guide to help farmers choose the best corn hybrids for their region and soil type.",
+    url: "https://example.com/hybrid-guide",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Pest and Disease Detection Using Drones",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Implemented drone technology to monitor corn fields and detect early signs of pests and diseases.",
+    url: "https://example.com/drone-detection",
   },
 ];
 
